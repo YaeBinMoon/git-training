@@ -11,6 +11,7 @@ int main()
 	sum = 86 + 100 + 90;
 
 	printf("This program print report card.\n");
+	printf("added test line\n");
 
 	printf("Korean : %d\n", kor);
 	printf("English : %d\n", eng);
