@@ -10,6 +10,7 @@ int main()
 	kor = 70;
 	sum = 86 + 100 + 90;
 
+	printf("added test header.\n");
 	printf("This program print report card.\n");
 	printf("added test line\n");
 
